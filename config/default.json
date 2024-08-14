@@ -1,0 +1,9 @@
+{
+  "token_secret": "secret-toraneko",
+  "db": {
+    "host": "localhost",
+    "port": 13567,
+    "username": "hupimao",
+    "password": "hupimao1234"
+  }
+}
